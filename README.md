@@ -1,27 +1,23 @@
-This project is a data analysis and visualization of IPL (Indian Premier League) matches using Python.
+### 🧩 Problem Statement
+The Indian Premier League (IPL) is one of the biggest cricket tournaments globally, generating vast amounts of match data. The objective of this project is to explore historical IPL data and derive meaningful insights related to team performance, player contributions, toss decisions, and venue impact.
 
-🔍 Key Features:
-Exploratory Data Analysis (EDA) on IPL dataset
+### 🚀 Approach
+1. **Data Loading:** Loaded IPL dataset using Pandas.
+2. **Data Cleaning:** Handled missing values and removed duplicates.
+3. **Exploratory Data Analysis (EDA):**
+   - Analyzed win trends across seasons.
+   - Compared performances of different teams.
+   - Evaluated toss impact on match outcome.
+   - Identified top-performing players.
+4. **Visualization:** Created insightful plots using Seaborn, Matplotlib, and interactive charts with Plotly.
 
-Team and player performance insights
+### 🛠️ Tools & Libraries
+- Python, Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
 
-Best batsman and bowler analysis
-
-Match trends and win patterns
-
-Visualizations using Matplotlib and Seaborn
-
-🛠️ Tools & Libraries:
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
-
-This project helps demonstrate practical data analysis skills, useful for entry-level data analyst or data science roles.
+### 📌 Key Insights
+- Mumbai Indians have the highest win count.
+- Winning the toss does not always guarantee a win.
+- Certain venues show strong home-team advantage.
+- Identified most impactful players based on match results.
