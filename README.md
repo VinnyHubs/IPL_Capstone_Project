@@ -11,10 +11,17 @@ The Indian Premier League (IPL) is one of the biggest cricket tournaments global
    - Identified top-performing players.
 4. **Visualization:** Created insightful plots using Seaborn, Matplotlib, and interactive charts with Plotly.
 
-### 🛠️ Tools & Libraries
-- Python, Jupyter Notebook
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
+🔍 I used Python and visualization libraries to analyze IPL match data — exploring team performances, player stats, and toss impact.
+
+📊 Tools Used: Pandas, Seaborn, Plotly, Matplotlib
+
+✨ Key Highlights:
+
+- Top performing teams and players
+
+- Toss decision impact on match results
+
+- Interactive visualizations to present insights
 
 ### 📌 Key Insights
 - Mumbai Indians have the highest win count.
